@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <c2project>
     <name>Bad Time Simulator (Sans Fight)</name>
-    <description>do you wanna have a bad time? &apos;cause if you visit this page... you are REALLY not going to like what happens next.</description>
+    <description>hey there kiddo, wanna have a bad time? &apos;cause if you're here... then prepare.</description>
     <version>1.0.0.0</version>
     <author>Jcw87</author>
-    <author-email></author-email>
+    <author-email>bassherobae@gmail.com</author-email>
     <author-website>http://</author-website>
     <app-id>com.jcw87.badtime</app-id>
     <unique-id>3pln6vqtdnxgu</unique-id>
@@ -1170,3 +1170,4 @@
         <file name="sans_final.csv" />
     </files-folder>
 </c2project>
+
